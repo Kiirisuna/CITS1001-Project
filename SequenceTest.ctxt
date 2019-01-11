@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment0.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment1.params=
+comment1.target=void\ testSequences()
+comment2.params=
+comment2.target=void\ testfactorial()
+comment3.params=
+comment3.target=void\ testallEqual()
+comment4.params=
+comment4.target=void\ testdifferences()
+comment5.params=
+comment5.target=void\ testupdateSequence()
+comment6.params=
+comment6.target=void\ testnextTerm()
+comment7.params=
+comment7.target=void\ testsolveSequence()
+numComments=8
